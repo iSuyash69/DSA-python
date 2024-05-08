@@ -71,7 +71,6 @@ def menu(graph):
         print(graph)
     elif choice==2:
         print("Kruskal's Algorithm: ")
-        # startNode=input("Enter the starting node: ")
         mstEdges,mstCost=kruskal(graph)
         print(str(mstEdges)+"\n"+str(mstCost))
     elif choice==3:
