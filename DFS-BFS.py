@@ -75,3 +75,7 @@ while True:
 
 
 
+#Time complexity : DFS BFS :- O(V+E)
+#Space complexity : DFS BFS :- O(V)
+
+
