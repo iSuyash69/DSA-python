@@ -88,6 +88,7 @@ graph={}
 while True:
     menu(graph)
 
+#Time complexity : O(ELogE)
+#Space complexity : DFS BFS :- O(E)
 
-#Time complexity : DFS BFS :- O(V+E)
-#Space complexity : DFS BFS :- O(V)
+
